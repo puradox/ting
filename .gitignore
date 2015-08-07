@@ -1,0 +1,6 @@
+# Build files
+build/
+build.sh
+
+# ViM
+.ycm*
