@@ -3,5 +3,5 @@
 int main()
 {
     ting::Device device;
-    device.play("test/never.wav");
+    device.playback("test/never.wav");
 }
